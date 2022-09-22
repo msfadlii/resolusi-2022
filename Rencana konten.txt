@@ -1,10 +1,13 @@
 Rencana konten 2022
 - Javascript
-  ES6
-  Dasar Javascript
+  * ES6
+  * Dasar Javascript
+  * Javascript Framework
+    ^ Angular
+    ^ React
 - PHP
-  PHP Framework
+  * PHP Framework
+    ^ Laravel
 - HTML
   HTML 5
 - CSS
-- Flutter
