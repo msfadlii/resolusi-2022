@@ -1,0 +1,2 @@
+Resolusi 2022
+- Paham JavaScript & Git
