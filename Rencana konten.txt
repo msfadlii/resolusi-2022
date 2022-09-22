@@ -1,0 +1,8 @@
+Rencana konten 2022
+- Javascript
+  ES6
+  Dasar Javascript
+- PHP
+  PHP Framework
+- HTML
+- CSS
