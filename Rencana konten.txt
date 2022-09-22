@@ -5,4 +5,6 @@ Rencana konten 2022
 - PHP
   PHP Framework
 - HTML
+  HTML 5
 - CSS
+- Flutter
